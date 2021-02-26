@@ -5,7 +5,7 @@ int main(void)
 {
 	char a = 'A';
 
-	printf("0ÀÌ ¾Æ´Ï¸é, 16Áø¼öÀÔ´Ï´Ù. \n");
+	printf("0ì´ ì•„ë‹ˆë©´, 16ì§„ìˆ˜ì…ë‹ˆë‹¤. \n");
 	printf("%d", isxdigit(a));
 
 	return 0;
