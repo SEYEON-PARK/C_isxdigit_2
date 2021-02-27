@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	char a = 'A';
+	char a = 'A'; // 초기화
 
 	printf("0이 아니면, 16진수입니다. \n");
 	printf("%d", isxdigit(a));
